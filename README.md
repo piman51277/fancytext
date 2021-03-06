@@ -12,7 +12,7 @@ This repo contains an algorithm and tools to create text such as below:
 
 - `algorithm.js` - This contains the algorithm used 
 Takes an array of strings as input 
-Outputs an array of strings that makes up the "image"
+Outputs an array of strings that makes up the "image"  
 Sample input: 
   [
   '11111',
